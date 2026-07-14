@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Hey!%20I'm%20Asna%20Khan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=GenAI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,1c1c1e,2d2d2d&height=180&section=header&text=Hey!%20I'm%20Asna%20Khan&fontSize=42&fontColor=A8B2C1&animation=fadeIn&fontAlignY=36&desc=GenAI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=asnakhan-dev&color=slategrey&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=asnakhan-dev&color=6B7280&style=flat-square&label=Profile+Views)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/asnakhan-dev?style=flat-square&color=slategrey&label=Followers)](https://github.com/asnakhan-dev)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## ◈ About Me
+##  About Me
 
 ```python
 asna = {
@@ -31,7 +31,7 @@ asna = {
 
 ---
 
-## ◈ Tech Stack
+##  Tech Stack
 
 **AI / GenAI**
 
@@ -60,7 +60,7 @@ asna = {
 
 ---
 
-## ◈ Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
@@ -71,7 +71,7 @@ asna = {
 
 ---
 
-## ◈ GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asnakhan-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A8B2C1&icon_color=6B7280&text_color=A8B2C1" />
@@ -84,7 +84,7 @@ asna = {
 
 ---
 
-## ◈ Currently Exploring
+##  Currently Exploring
 
 ```
 → LangGraph        — Agentic AI & multi-step reasoning workflows
@@ -95,7 +95,7 @@ asna = {
 
 ---
 
-## ◈ Let's Connect
+##  Let's Connect
 
 <div align="center">
 
