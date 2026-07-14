@@ -79,7 +79,7 @@ asna = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asnakhan-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=ffffff&dates=888888" />
+  <img src="https://streak-stats.demolab.com?user=asnakhan-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=ffffff&dates=888888" />
 </div>
 
 ---
@@ -99,8 +99,8 @@ asna = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asna-khan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnakhan.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asna-khan-537853332)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnakhan238@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asnakhan-dev)
 
 *💼 Open to GenAI Engineer opportunities in India*
