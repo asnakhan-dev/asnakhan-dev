@@ -23,7 +23,7 @@ asna = {
     "education"     : "B.Tech IT — DY Patil University, Pune",
     "location"      : "Pune, India 🇮🇳",
     "internship"    : "6-month Production Internship @ Utkryst IT Solutions",
-    "currentFocus"  : ["LangChain", "LangGraph", "RAG Pipelines", "LLM Fine-tuning"],
+    "currentFocus"  : ["LangChain", "LangGraph", "RAG Pipelines", "LLM Fine-tuning", "Prompt Engineering"],
     "philosophy"    : "Quality + Consistency = Impact 🚀",
     "openTo"        : "GenAI Engineer roles in India 💼",
 }
@@ -40,7 +40,9 @@ asna = {
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-C084FC?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-C084FC?style=for-the-badge)
 
 **🌐 Full Stack**
 
