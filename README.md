@@ -19,7 +19,7 @@
 ```python
 asna = {
     "name"          : "Asna Khan",
-    "role"          : "GenAI Engineer | Python Developer |Full Stack Developer",
+    "role"          : "GenAI Engineer | Python Developer | Full Stack Developer",
     "education"     : "B.Tech IT — DY Patil University, Pune",
     "location"      : "Pune, India 🇮🇳",
     "internship"    : "6-month Production Internship @ Utkryst IT Solutions",
