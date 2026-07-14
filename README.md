@@ -101,7 +101,7 @@ asna = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnakhan.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asnakhan-dev)
 
-*💼 Open to GenAI Engineer opportunities in Pune, India*
+*💼 Open to GenAI Engineer opportunities in India*
 
 </div>
 
