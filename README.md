@@ -19,13 +19,13 @@
 ```python
 asna = {
     "name"          : "Asna Khan",
-    "role"          : "GenAI Engineer (Fresher) | Full Stack Developer",
+    "role"          : "GenAI Engineer | Python Developer |Full Stack Developer",
     "education"     : "B.Tech IT — DY Patil University, Pune",
     "location"      : "Pune, India 🇮🇳",
-    "internship"    : "SAP Health Check Automation Tool (Production)",
+    "internship"    : "6-month Production Internship @ Utkryst IT Solutions",
     "currentFocus"  : ["LangChain", "LangGraph", "RAG Pipelines", "LLM Fine-tuning"],
     "philosophy"    : "Quality + Consistency = Impact 🚀",
-    "openTo"        : "GenAI Engineer roles in Pune 💼",
+    "openTo"        : "GenAI Engineer roles in India 💼",
 }
 ```
 
