@@ -48,7 +48,7 @@ asna = {
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **☁️ DevOps & Cloud**
@@ -65,7 +65,7 @@ asna = {
 | Project | Description | Stack |
 |:---:|:---|:---|
 | 🤖 **[DocuChat — RAG PDF Chatbot](https://github.com/asnakhan-dev/docuchat)** | Production-ready PDF Q&A using RAG pipeline | LangChain · ChromaDB · HuggingFace · Groq · Streamlit |
-| 🏥 **SAP Health Check Tool** | Automates SAP system diagnostics for enterprise | PyQt5 · Python · SAP APIs |
+| 🏥 **SAP Health Check Tool** | Automates SAP system diagnostics for enterprise | PyQt5 · Python · OCR |
 | 🤟 **[SignBridge — ASL Translator](https://github.com/asnakhan-dev/signbridge)** | Real-time ASL fingerspelling recognition | FastAPI · MediaPipe · OpenCV · WebSockets |
 | 🛒 **[AI Bakery E-Commerce](https://github.com/asnakhan-dev/ai-bakery-website)** | AI chatbot + UPI payments + CI/CD deployed | Django · Groq · Twilio · GitHub Actions |
 
