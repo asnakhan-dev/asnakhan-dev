@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,161B22&height=140&section=header&text=Asna%20Khan&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=580&lines=GenAI+Engineer+%7C+Python+Developer+%7C+Full+Stack+Developer;RAG+Pipelines+%C2%B7+LangChain+%C2%B7+LLMs;6-month+Production+Internship+%40+Utkryst+IT+Solutions;Open+to+GenAI+roles+across+India" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=E6EDF3&center=true&vCenter=true&width=580&lines=GenAI+Engineer+%7C+Python+Developer+%7C+Full+Stack+Developer;RAG+Pipelines+%C2%B7+LangChain+%C2%B7+LLMs;6-month+Production+Internship+%40+Utkryst+IT+Solutions;Open+to+GenAI+roles+across+India" />
 
 <br/>
 
