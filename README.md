@@ -1,110 +1,135 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,1c1c1e,2d2d2d&height=180&section=header&text=Hey!%20I'm%20Asna%20Khan&fontSize=42&fontColor=A8B2C1&animation=fadeIn&fontAlignY=36&desc=GenAI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A8B2C1&center=true&vCenter=true&width=650&lines=Building+AI+that+actually+matters+%F0%9F%A4%96;RAG+Pipelines+%7C+LangChain+%7C+LLMs;Full+Stack+Dev+with+a+GenAI+twist+%E2%9C%A8;Open+to+GenAI+roles+in+Pune" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,161B22&height=140&section=header&text=Asna%20Khan&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=GenAI+Engineer+%7C+Python+Developer;RAG+Pipelines+%C2%B7+LangChain+%C2%B7+LLMs;6-month+Production+Internship+%40+Utkryst+IT+Solutions;Open+to+GenAI+roles+across+India" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=asnakhan-dev&color=6B7280&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/asnakhan-dev?style=flat-square&color=slategrey&label=Followers)](https://github.com/asnakhan-dev)
+![](https://komarev.com/ghpvc/?username=asnakhan-dev&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
 
----
-
-##  About Me
+<br/>
 
 ```python
 asna = {
-    "name"          : "Asna Khan",
-    "role"          : "GenAI Engineer | Python Developer | Full Stack Developer",
-    "education"     : "B.Tech IT — DY Patil University, Pune",
-    "location"      : "Pune, India",
-    "internship"    : "6-month Production Internship @ Utkryst IT Solutions",
-    "currentFocus"  : ["LangChain", "LangGraph", "RAG Pipelines", "LLM Fine-tuning", "Prompt Engineering"],
-    "philosophy"    : "Quality + Consistency = Impact",
-    "openTo"        : "GenAI Engineer roles in India",
+    "name"       : "Asna Khan",
+    "education"  : "B.Tech IT — DY Patil University, Pune",
+    "experience" : "Production Internship @ Utkryst IT Solutions (6 months)",
+    "built"      : ["SAP Health Check Automation Tool", "RAG PDF Chatbot",
+                    "ASL Fingerspelling Translator", "AI Bakery E-Commerce"],
+    "focus"      : ["LangChain", "LangGraph", "RAG", "Prompt Engineering", "LLM Fine-tuning"],
+    "seeking"    : "GenAI Engineer roles in India",
 }
 ```
 
+<br/>
+
 ---
 
-##  Tech Stack
+### Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **AI / GenAI**
+- Python
+- LangChain · LangGraph
+- HuggingFace · Groq
+- ChromaDB · FAISS
+- AWS Bedrock
+- Prompt Engineering
 
-![Python](https://img.shields.io/badge/Python-1c1c1e?style=for-the-badge&logo=python&logoColor=A8B2C1)
-![LangChain](https://img.shields.io/badge/LangChain-1c1c1e?style=for-the-badge&logo=langchain&logoColor=A8B2C1)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1c1c1e?style=for-the-badge&logo=huggingface&logoColor=A8B2C1)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-1c1c1e?style=for-the-badge&logo=amazonaws&logoColor=A8B2C1)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1c1c1e?style=for-the-badge&logoColor=A8B2C1)
-![FAISS](https://img.shields.io/badge/FAISS-1c1c1e?style=for-the-badge&logo=meta&logoColor=A8B2C1)
-![Groq](https://img.shields.io/badge/Groq-1c1c1e?style=for-the-badge&logoColor=A8B2C1)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1c1c1e?style=for-the-badge&logoColor=A8B2C1)
+</td>
+<td valign="top" width="33%">
 
-**Full Stack**
+**Backend & Frontend**
+- FastAPI · Django
+- Streamlit
+- SQL
+- PyQt5
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1c1c1e?style=for-the-badge&logo=fastapi&logoColor=A8B2C1)
-![Django](https://img.shields.io/badge/Django-1c1c1e?style=for-the-badge&logo=django&logoColor=A8B2C1)
-![SQL](https://img.shields.io/badge/SQL-1c1c1e?style=for-the-badge&logo=mysql&logoColor=A8B2C1)
-![Streamlit](https://img.shields.io/badge/Streamlit-1c1c1e?style=for-the-badge&logo=streamlit&logoColor=A8B2C1)
+</td>
+<td valign="top" width="33%">
 
 **DevOps & Cloud**
+- Docker
+- AWS
+- GitHub Actions
+- CI/CD Pipelines
 
-![Docker](https://img.shields.io/badge/Docker-1c1c1e?style=for-the-badge&logo=docker&logoColor=A8B2C1)
-![AWS](https://img.shields.io/badge/AWS-1c1c1e?style=for-the-badge&logo=amazonaws&logoColor=A8B2C1)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1c1c1e?style=for-the-badge&logo=github-actions&logoColor=A8B2C1)
-![PyQt5](https://img.shields.io/badge/PyQt5-1c1c1e?style=for-the-badge&logo=qt&logoColor=A8B2C1)
-
----
-
-##  Featured Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **[DocuChat — RAG PDF Chatbot](https://github.com/asnakhan-dev/docuchat)** | Production-ready PDF Q&A using RAG pipeline | LangChain · ChromaDB · HuggingFace · Groq · Streamlit |
-| **SAP Health Check Tool** | Automates SAP system diagnostics for enterprise | PyQt5 · Python · OCR |
-| **[SignBridge — ASL Translator](https://github.com/asnakhan-dev/signbridge)** | Real-time ASL fingerspelling recognition | FastAPI · MediaPipe · OpenCV · WebSockets |
-| **[AI Bakery E-Commerce](https://github.com/asnakhan-dev/ai-bakery-website)** | AI chatbot + UPI payments + CI/CD deployed | Django · Groq · Twilio · GitHub Actions |
+</td>
+</tr>
+</table>
 
 ---
 
-##  GitHub Stats
+### Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[DocuChat — RAG PDF Chatbot](https://github.com/asnakhan-dev/docuchat)**
+Production-grade PDF Q&A using a full RAG pipeline.
+`LangChain` `ChromaDB` `HuggingFace` `Groq` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+**SAP Health Check Tool**
+Automated SAP system diagnostics deployed in production.
+`PyQt5` `Python` `OCR`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[SignBridge — ASL Translator](https://github.com/asnakhan-dev/signbridge)**
+Real-time ASL fingerspelling recognition via webcam.
+`FastAPI` `MediaPipe` `OpenCV` `WebSockets`
+
+</td>
+<td width="50%" valign="top">
+
+**[AI Bakery E-Commerce](https://github.com/asnakhan-dev/ai-bakery-website)**
+E-commerce store with AI chatbot, payments, and CI/CD.
+`Django` `Groq` `Twilio` `GitHub Actions`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asnakhan-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A8B2C1&icon_color=6B7280&text_color=A8B2C1" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asnakhan-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A8B2C1&text_color=A8B2C1" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=asnakhan-dev&theme=github-dark&hide_border=true&background=0D1117&ring=6B7280&fire=A8B2C1&currStreakLabel=A8B2C1&sideLabels=6B7280&dates=4B5563" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asnakhan-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asnakhan-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+
+<img src="https://streak-stats.demolab.com?user=asnakhan-dev&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=4B5563&currStreakNum=58A6FF" />
+
+<img src="https://ghchart.rshah.org/58A6FF/asnakhan-dev" alt="Contribution Chart" />
+
 </div>
 
 ---
 
-##  Currently Exploring
-
-```
-→ LangGraph        — Agentic AI & multi-step reasoning workflows
-→ LLM Fine-tuning  — LoRA / PEFT on open-source models
-→ Amazon Bedrock   — Enterprise LLM deployment patterns
-→ Vector DB Ops    — ChromaDB & FAISS optimization at scale
-```
-
----
-
-##  Let's Connect
+### Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A8B2C1)](https://www.linkedin.com/in/asna-khan-537853332)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A8B2C1)](mailto:asnakhan238@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A8B2C1)](https://github.com/asnakhan-dev)
-
-*Open to GenAI Engineer opportunities in India*
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/asna-khan-537853332)
+[![Gmail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:asnakhan238@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/asnakhan-dev)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,161B22,0D1117&height=100&section=footer" width="100%"/>
