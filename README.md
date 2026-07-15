@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,161B22&height=140&section=header&text=Asna%20Khan&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=GenAI+Engineer+%7C+Python+Developer;RAG+Pipelines+%C2%B7+LangChain+%C2%B7+LLMs;6-month+Production+Internship+%40+Utkryst+IT+Solutions;Open+to+GenAI+roles+across+India" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=580&lines=GenAI+Engineer+%7C+Python+Developer+%7C+Full+Stack+Developer;RAG+Pipelines+%C2%B7+LangChain+%C2%B7+LLMs;6-month+Production+Internship+%40+Utkryst+IT+Solutions;Open+to+GenAI+roles+across+India" />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=asnakhan-dev&color=58A6FF&style=flat-square&label=profile+views)
+![](https://komarev.com/ghpvc/?username=asnakhan-dev&color=6E7681&style=flat-square&label=profile+views)
 
 </div>
 
@@ -109,12 +109,12 @@ E-commerce store with AI chatbot, payments, and CI/CD.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asnakhan-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asnakhan-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asnakhan-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=6E7681&text_color=8B949E&rank_icon=github" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asnakhan-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" />
 
-<img src="https://streak-stats.demolab.com?user=asnakhan-dev&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=4B5563&currStreakNum=58A6FF" />
+<img src="https://streak-stats.demolab.com?user=asnakhan-dev&hide_border=true&background=0D1117&ring=6E7681&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=6E7681&dates=4B5563&currStreakNum=E6EDF3" />
 
-<img src="https://ghchart.rshah.org/58A6FF/asnakhan-dev" alt="Contribution Chart" />
+<img src="https://ghchart.rshah.org/8B949E/asnakhan-dev" alt="Contribution Chart" />
 
 </div>
 
@@ -124,9 +124,9 @@ E-commerce store with AI chatbot, payments, and CI/CD.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/asna-khan-537853332)
-[![Gmail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:asnakhan238@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/asnakhan-dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=E6EDF3)](https://www.linkedin.com/in/asna-khan-537853332)
+[![Gmail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E6EDF3)](mailto:asnakhan238@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/asnakhan-dev)
 
 </div>
 
